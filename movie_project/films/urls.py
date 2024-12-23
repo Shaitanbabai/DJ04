@@ -1,6 +1,6 @@
 from django.contrib import admin
 from django.urls import path
-import views
+from films import views
 
 
 urlpatterns = [
